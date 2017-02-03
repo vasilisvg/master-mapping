@@ -8,6 +8,23 @@
 			<li>everybody is happy</li>
 			<li>… for now, but there’s still work to do</li>
 		</ul>
+		<details id="sources">
+			<summary>Sources to </summary>
+			<ul>
+				<li>Apple</li>
+				<li>Microsoft</li>
+			</ul>
+		</details>
+		<details>
+			<summary>People to interview</summary>
+			<ul>
+				<li>Henk Haaima/Eelco</li>
+				<li>Niko Spelbrink</li>
+				<li>Don Norman</li>
+				<li>Jonne Kuyt</li>
+				<li>Niko Spelbrink</li>
+			</ul>
+		</details>
 	</details>
 	<details>
 		<summary>it fits within a set of rules/principles</summary>
