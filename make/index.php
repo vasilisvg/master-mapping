@@ -1,4 +1,4 @@
-<details open>
+<details id="make" open>
 	<summary>The urge to make things</summary>
 	<?php include 'reasons.php'; ?>
 	<?php include 'good.php'; ?>

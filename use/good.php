@@ -1,4 +1,4 @@
-<details>
+<details id="use-good">
 	<summary>what makes a thing good</summary>
 	<ul>
 		<li>it works</li>

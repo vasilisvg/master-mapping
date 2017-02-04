@@ -4,7 +4,6 @@ while(i < targetLinks.length) {
 	targetLinks[i].onclick = function(e) {
 		var trgt = this.getAttribute('href');
 		openTarget(trgt);
-		e.preventDefault();
 	}
 	i++;
 }

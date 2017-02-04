@@ -1,6 +1,6 @@
-<details>
+<details id="make-good">
 	<summary>what makes a thing good</summary>
-	<details>
+	<details id="make-it-works">
 		<summary>it works</summary>
 		<ul>
 			<li>good enough</li>
@@ -8,14 +8,14 @@
 			<li>everybody is happy</li>
 			<li>… for now, but there’s still work to do</li>
 		</ul>
-		<details id="sources">
+		<details id="make-sources">
 			<summary>Sources to </summary>
 			<ul>
 				<li>Apple</li>
 				<li>Microsoft</li>
 			</ul>
 		</details>
-		<details>
+		<details id="make-people">
 			<summary>People to interview</summary>
 			<ul>
 				<li>Henk Haaima/Eelco</li>
@@ -26,7 +26,7 @@
 			</ul>
 		</details>
 	</details>
-	<details>
+	<details id="make-rules">
 		<summary>it fits within a set of rules/principles</summary>
 		<ul>
 			<li>things I learned</li>

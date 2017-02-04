@@ -1,8 +1,8 @@
-<details>
+<details id="make-reasons">
 	<summary>reasons to make things</summary>
-	<details>
+	<details id="make-want">
 		<summary>I want to</summary>
-		<details>
+		<details details="make-want-rich">
 			<summary>To become rich/famous</summary>
 			<ul>
 				<li>Do others need it</li>

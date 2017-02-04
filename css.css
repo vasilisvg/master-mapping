@@ -1,57 +1,31 @@
-html,
-#commentform input {
+html {
 	font: 100%/1.414 "Nara 2", georgia, serif;
 }
-
-.nrd-outline li li,
-.nrd-outline li ul {
+summary {
+	cursor: pointer;
+	transition: .2s;
+}
+summary:hover,
+summary:focus {
+	background: hsla(0, 100%, 0%, 0.1);
+}
+details {
+	max-width: 30em;
+	width: 100%;
+	margin: .5em 0;
+}
+details {
+	margin: 1em 0;
+}
+details details {
 	margin: 0;
-	padding: 0;
 }
-
-.nrd-outline li li {
-	margin-left: 1.5em;
-}
-
-.nrd-outline .closed+ul {
-	display: none;
-}
-
-.nrd-outline li.opener {
-	list-style: none;
-	position: relative;
-}
-
-.nrd-outline li:not(.opener) {
-	list-style: circle;
-}
-
-.nrd-outline .opener::before {
-	content: '→';
-	transform: rotate(90deg);
-	background: white;
-	position: absolute;
-	margin-left: -1rem;
-	transition: .15s;
-	//font-size: .8em;
-	line-height: 1rem;
-	width: 1rem;
-	text-align: center;
-	margin-top: .1em;
-}
-
-.nrd-outline .opener.closed::before {
-	transform: rotate(0deg);
-}
-
-.nrd-outline .closed .opener::before {
-	display: none;
-}
-
 details details {
 	margin-left: 1em;
 }
-
+details[open] {
+	mix-blend-mode: multiply;
+}
 details[open]>summary {
 	box-shadow: inset 1em 0 0 white;
 }
@@ -60,7 +34,13 @@ details ul {
 	margin: 0 0 0 1em;
 	padding: 0;
 }
-
+details p {
+	margin: 0 0 0 1em;
+}
 details li {
 	margin-left: 1em;
+}
+.note {
+	font-style: italic;
+	background: yellow;
 }

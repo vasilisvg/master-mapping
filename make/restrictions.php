@@ -1,4 +1,4 @@
-<details>
+<details id="make-restrictions">
 	<summary>Are there any restrictions</summary>
 	<ul>
 		<li>money</li>

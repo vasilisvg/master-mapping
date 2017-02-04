@@ -1,6 +1,6 @@
-<details>
+<details id="use-restrictions">
 	<summary>Are there any restrictions</summary>
-	<details>
+	<details id="use-environment">
 		<summary>environment</summary>
 		<ul>
 			<li>sun</li>
@@ -15,9 +15,9 @@
 			<li>social</li>
 		</ul>
 	</details>
-	<details>
+	<details id="use-deaf">
 		<summary>deaf</summary>
-		<details>
+		<details id="deaf-chosen">
 			<summary>chosen</summary>
 			<ul>
 				<li>sound muted for social reasons</li>
@@ -29,7 +29,7 @@
 			<li>noisy surroundings</li>
 		</ul>
 	</details>
-	<details>
+	<details id="use-blind">
 		<summary>blind</summary>
 		<ul>
 			<li>dark</li>
@@ -39,7 +39,7 @@
 			<li>forgot glasses</li>
 		</ul>
 	</details>
-	<details>
+	<details id="use-colourblind">
 		<summary>colourblind</summary>
 		<ul>
 			<li>born</li>
@@ -48,7 +48,7 @@
 			<li>black and white screen</li>
 		</ul>
 	</details>
-	<details>
+	<details id="use-stupid">
 		<summary><em>stupid</em></summary>
 		<ul>
 			<li>not intelligent</li>
@@ -58,14 +58,14 @@
 			<li>bad device</li>
 		</ul>
 	</details>
-	<details>
+	<details id="use-smart">
 		<summary><em>smart</em></summary>
 		<ul>
 			<li>too intelligent</li>
 			<li>an expert</li>
 		</ul>
 	</details>
-	<details>
+	<details id="use-device">
 		<summary>bad device</summary>
 		<ul>
 			<li>simulates blindness</li>
@@ -73,7 +73,7 @@
 			<li>simulates spasms</li>
 		</ul>
 	</details>
-	<details>
+	<details id="use-spastic">
 		<summary><em>spastic</em></summary>
 		<ul>
 			<li>born</li>
@@ -88,4 +88,5 @@
 		<li>parent</li>
 		<li>ill</li>
 	</ul>
+	<p class="note">Get an expert to help me with the correct vocabulary</p>
 </details>
