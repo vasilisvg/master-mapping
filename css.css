@@ -6,7 +6,8 @@ summary {
 	transition: .2s;
 }
 summary:hover,
-summary:focus {
+summary:focus,
+details:target > summary {
 	background: hsla(0, 100%, 0%, 0.1);
 }
 details {
