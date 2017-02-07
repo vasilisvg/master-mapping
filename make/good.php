@@ -8,7 +8,7 @@
 			<li>everybody is happy</li>
 			<li>… for now, but there’s still work to do</li>
 			<li>
-				<a href="#sources">Sources</a>
+				<a href="#sources">sources</a>
 			</li>
 		</ul>
 	</details>
