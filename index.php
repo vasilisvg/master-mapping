@@ -101,7 +101,7 @@ while ($d < 6) {
 				</details>
 			</details>
 			<details>
-				<summary>Are there any restrictions? (https://my.mindnode.com/ZkNpqy2pm4UWcixVB7UMncYvM9RaALKfy42crP8Z#205.4,108.3,2)</summary>
+				<summary><a href="https://my.mindnode.com/ZkNpqy2pm4UWcixVB7UMncYvM9RaALKfy42crP8Z#205.4,108.3,2">Are there any restrictions?</a></summary>
 			</details>
 			<details>
 				<summary>Reasons to use things</summary>
