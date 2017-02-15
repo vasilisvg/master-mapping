@@ -5,6 +5,10 @@ summary {
 	cursor: pointer;
 	transition: .2s;
 }
+summary:only-child {
+	cursor: default;
+	display: list-item;
+}
 summary:hover,
 summary:focus,
 details:target > summary {
